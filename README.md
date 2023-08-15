@@ -3,7 +3,7 @@ This is a model that are trained on 768 pneumothorax x-ray images, with the base
 All the baseline models used for the transfer learning are from Detectron2 Model Zoo.
 The models are FPN-only.
 
-Downloads at [Release](/releases)
+Downloads at [Release](https://github.com/xiangyann/PneumothoraxModel2023/releases/latest)
 
 1. ResNet50 (COCO) [137849600]
 2. ResNet101 (COCO) [138205316]
