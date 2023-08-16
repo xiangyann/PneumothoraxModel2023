@@ -11,3 +11,8 @@ Downloads at [Release](https://github.com/xiangyann/PneumothoraxModel2023/releas
 4. ResNet50 (LVIS) [144219072]
 5. ResNet101 (LVIS) [144219035]
 6. ResNeXt101 (LVIS) [144219108]
+
+
+Paper
+
+TBD
