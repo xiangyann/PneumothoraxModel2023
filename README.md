@@ -16,6 +16,5 @@ Downloads at [Release](https://github.com/xiangyann/PneumothoraxModel2023/releas
 | 6. | ResNeXt101 (LVIS) | [144219108]
 
 
-Paper
-
-TBD
+## Citation
+Deng, L.Y.; Lim, X.-Y.; Luo, T.-Y.; Lee, M.-H.; Lin, T.-C. Application of Deep Learning Techniques for Detection of Pneumothorax in Chest Radiographs. Sensors 2023, 23, 7369. https://doi.org/10.3390/s23177369 
